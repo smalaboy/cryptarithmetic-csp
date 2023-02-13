@@ -174,3 +174,5 @@ poetry.toml
 
 exps
 exps/*
+.idea/*
+
